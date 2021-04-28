@@ -5,7 +5,7 @@
 
 
 
-En estte articulo se cambio algunas cosas para validar que todo funciona ok 
+En estte articulo se cambio algunas cosas para validar que todo funciona ok y nada mas.............................. 
 
 
 ## Requerimientos de compilación
