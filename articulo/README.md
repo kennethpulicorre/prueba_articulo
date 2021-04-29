@@ -1,6 +1,12 @@
-# Directorio `articulo`
 
-Este directorio contiene los archivos en LaTeX y otros insumos que permiten la generación del artículo en formato PDF.
+
+#Directorio `articulo`
+
+
+
+
+En estte articulo se cambio algunas cosas para validar que todo funciona ok y nada mas.............................. 
+
 
 ## Requerimientos de compilación
 
